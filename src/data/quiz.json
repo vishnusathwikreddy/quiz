@@ -1,0 +1,1550 @@
+[
+    {
+        "id": 1,
+        "img": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg",
+        "name": "Maths",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "name": "Biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The Kreb Cycles occurs in the",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rough ER",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cystol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "How many oxygen molecules can hemoglobin hold",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The cones see ___ while the rods see ___",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "black and white; color",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "color; black and white",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3D objects; 2D shapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2D shapes; 3D objects",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the composition of table salt",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://i.ytimg.com/vi/SzJ46YA_RaA/maxresdefault.jpg",
+        "name": "Computer Programming",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the capital of programming?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Java",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Python",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C++",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "JavaScript",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is the output of the following code?\n\nprint(2 + 3 * 4)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "14",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "20",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "32",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "5",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the purpose of a loop in programming?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "To perform arithmetic calculations",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "To store data temporarily",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "To repeat a block of code",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "To display output on the screen",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlmKYC8ag1AOjveIq4YgoUWEBXIvIVHAY8Sw&usqp=CAU",
+        "name": "Telugu",
+        "questions": [
+            {
+                "id": 1,
+                "text": "తెలుగులో 'పద్యం' అనేది ఏమిటి?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "పుస్తకం",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "సంగీతం",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "కవిత",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "నటకం",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "తెలుగు మొదటి పదమే 'అమ్మ' అనేది ఏమిటి?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "ఆక్క",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "తండ్రి",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "నాన్న",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "అత్త",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "తెలుగులో 'మరుగువారి' అనేది ఇంగ్లీషులో ఏమిటి?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Parents",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Siblings",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Relatives",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Friends",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://i0.wp.com/d3d2ir91ztzaym.cloudfront.net/uploads/2022/05/history-of-ancient-India.png?fit=2500%2C1407&ssl=1",
+        "name": "History",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who was the founder of the Maurya Empire in ancient India?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Chandragupta Maurya",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ashoka the Great",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Samudragupta",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Harsha",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Who was the great ruler of the Gupta Empire known as the 'Golden Age of India'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Chandragupta II",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Samudragupta",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ashoka the Great",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Harsha",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Who was the famous Rajput king known for his resistance against the Delhi Sultanate?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Prithviraj Chauhan",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Chandragupta Maurya",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ashoka the Great",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Harsha",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisz15PEEyLqZl3wNIwpGFGdm2OJnsluYhIg&usqp=CAU",
+        "name": "Photography",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the term used to describe the opening in a camera lens that controls the amount of light entering the camera?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Shutter",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Aperture",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Exposure",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Focus",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which type of photography captures images of people and their expressions?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Landscape photography",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Portrait photography",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Wildlife photography",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Macro photography",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What does the term 'ISO' refer to in photography?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Image Stabilization Operation",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "International Standards Organization",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Infrared Sensitivity Option",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Intense Shutter Opening",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/16202532/Modern-Physics.jpg",
+        "name": "Physics",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the SI unit of force?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Newton",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Joule",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Watt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Coulomb",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which law states that for every action, there is an equal and opposite reaction?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Ohm's Law",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Newton's Second Law",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Newton's Third Law",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Boyle's Law",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the speed of light in a vacuum?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "299,792 kilometers per second",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "3,000 kilometers per second",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "30,000 kilometers per second",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "299,792 meters per second",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv__xhvlwe1XWKdPrfysOHtm0bEyspUG5e6g&usqp=CAU",
+        "name": "English",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who is the author of the novel 'Pride and Prejudice'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Jane Austen",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Charles Dickens",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "William Shakespeare",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "F. Scott Fitzgerald",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is the definition of the word 'Eloquent'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Lacking intelligence",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Clear and expressive in speech",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Showing strong physical strength",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Having a pleasant fragrance",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Identify the figure of speech in the sentence: 'The world is my oyster.'",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Simile",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Metaphor",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Personification",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Hyperbole",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUExYVFBQXFxYYGBwdGhkZGRkdIB0gGB8fIh0dGRkfHyokHB8nHRwZIzQjJysuMTExGSE2OzYwOiowMS4BCwsLDw4PHRERHTMnIigwMDAwNDUyMDAwMDAuMjIwMDAyMDAwMDAwMDIwMjAwMDIyMDAwMDAwMDAwMDAyMDAwMP/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EAD0QAAEDAgQEBAQEBQMEAwEAAAECAxEAIQQSMUEFIlFhBhNxgTKRobFCUsHRFCNicvAHguEVJEOSFiXxM//EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAEFAP/EADERAAICAQQBAwIEBgIDAAAAAAECABEDBBIhMUETIlFhgTJxkfAUM6GxweEj8QUVQv/aAAwDAQACEQMRAD8AgXVDlExveonNNhXjaOb22otKogi9t6R1CkMMMygJi9FYiZINcMMHCCBzdBRTTVuaLGKEd3DJFbYPg2ScwUIgb0RhYBgVPEnMQQSbXrmUbmjq4q6lwTJBr19m89auJAAqpcnWawTDcqQifiqYwididKk1KiEjX9OtHcWYRh8GvEGV5UyEE5AZMATBNyaww1Xi4tZwwBqrFM2ggAda94dxpt/yVtYcpSv4gpZJBBOka6GDF6Pddbd5MikknUKn6EaUBcAxqYHdTt8RS8gZJEmLUM2jckzV7jagnS1QKPWjHXcUZYtnlnNN7CpMKlJHSqQm0Xq1LSxaCYvW+J7i5c2rKIFWFv8AFtVaF7ddauWtM5bgda9cwiSSq0daswuDW4TkgwJIkD7mqnFpaBWSDAkA7nYad59q7huJKPNA81aciyQkmTkAIlRmDGl9KF3Cjgwgh4hDuEKUyQfUQR6SLVUlyQQKq4D4iXC5bSoFU+WsqmB+VWWJ9elEYp4uZXgCAolN4tkMRYAaRt1oEyq/HmayMvMoyCr8O5v0qhfWvcOm9OI45ixC3ik3GtUE16s3ria8ooTHNmQJvXgc7UQwlAzFQKsokJBib9aj/wBSSfhw6fcrP601MbN1ALAdytKjrXi5maP4Xi2HFhtxoIJsClStehE2q7i/Dw2sJbBukqg301j0rzKVNETQbFiLEGrQoTJ0qIFSKARQmp4X2JBRuYqDkAiNaIUpASAPi3ofy5vWQpGfnXmXpUwkdK8ivQZBAE3ipMlMXTeouJ7VUhlUaivcTRFjGGMZgBpBNRwzSlKCEiVEwPU0W28c3w8pMlMVMp5swGW9gNqVZBjaFSWEwzqXCmIUkwR0qasMcxk3m4rsO6pJJE3r1p4qJUmTrt+Wx9pr189zx5EILGUC1WFsRr3qEki8mvBoK3uLl4cUUpSfhTMWvfvVbjkDtUyu1qt4clKlyv4U3gXk7ADf/isvjmEFs0Jezh1NoUSj42ycx2B0A7ml/wDqMta8CphpMlJRm0+FMTE7gxTV7ENuEhaFBQBI8wkSBc3/AA1h3uKnG4kBpxZbSSp1BACAQYQkH8UmTP2pRLXay1kUKFYfv5my8DJYQ020EhRiUqIBGmgP+amqcUR5rygICZAjqeX96v4Lg0oKXYKUCAgX5iq0idr0LxdtTSlJiStRUb6CTE+szWAlgLjLTFu2nsV9/MXBRsDpXAn8hjqAa51+dER7ijMLxnEIQEJCSkDcfrNORFPchLHwYOtA1Skx1g/5pXpdWLwoA2nKRV7fGMQNAgACAIt9+lqjiuKPuJKVBMEgmNyPfsKPYn7M8WPzA8XjWEFIWVAkbAn7V4++lsjOHAVGEjKSSTtA37UPxTh7rzjbjeVOTZR3BnpReJ/iCppeRsltaVwVH8JmAYmpyCDxGpsKksefErdcDyDZ1QBgnIoAQbhVrjqKc+HlKaaK1ryA5ZEAZwmRIJk3SRYdBegsTxN1TeTy0Mo8xSpQ6ZkkkyFJvKiT2oPEcXLwbQUkKQCPMKpCxMBSZuTFydJNJcAPY+Ia2VvxKcPwxSHyQtWWT+E3SQCj1sVW79qf64dQOaErEWMyqZPptUMFj30NIACQRJBUATCpg/U69KPw/EMQpDjnJmSEAQLHm39ifnVGLCgUN/qIZzZERNsBRiVe8imSfDbpAVMA6c4ofibmIdUFEtggRaYps3xJlDeq5y6agEaxfc0xwAfbBXnsxdgOFqeGfNqVCM4B5SRpV6/DjgQSDMSfj6VkGfEjpfytNHJJhQMqO34jYdq3qeMJDcSoKywRAgkiOuk0jExPDCPzYwvuB7iXAtjzE3MKGUyfzCP1pv4UdDaHgr8Bk+wIP2rPDGcxACMxAuCfp6U84SpKUOuLMpXlSsDYqNz6XmrMTAAr81JGBsGWNcQYfWErayKnlXYGdpI0NG8WP8xtQIBSpQBVpzIMT7is5xLhS2SSow2P/JtHUnY01Zx6H5XyKaCErJV8UgRZHU96c5QMAp8dTEDFSSPvAsThVoCVKAGYTAuB1FDhw3Gxpr5nmNmWFNpN0qGnYqTt6igWbWy70lwQeZ4AHqVOISAOpFRSuBG9XLTPzqDQieWZ7VlipvRlZIUbVzreswKtTKfhF6g+tSvw3rLueqpSg2JKvaqnBfWrjhAAFTeRarVs32rCwEIKTyIsTn/MKsQF/mFZXjWPdbeUhLpKREGB+1fQuHeHmy02oqdlSUknOgCSBpy6UDe3uaELdRLjMaGcpcWBmVAtVbKFSlsQQn+YSNJVOUD6n2FX+MuHBhsLTKkfiS4QoHpcDlJEwraKX8BxrbgWpExa24toal9xfnqVkKuLjuOs6+or0KX2oXNVpWIqiRcy0LX2pqUpbYBWvI4szYSY7Da29K8AznWlKbyb+g1pit5kKKnFZl9UjMlA6J2t1rCfEq0yFmvk18RT4swDuLwpYYz5oGVarZjMqSpU2SRA971h/BPBMW2+608CyhLS3DKknmbskpIJmCdjpX1BTbbl87ixuQRI/wBn7VjePgB4hCiUgi+k3m/0+VKfIUWvmdDBpBmfsgjn9/sTXYPEZigrVKGEAk/mUBr86zuK4m668rngOOKE9AgCyZ0M/ameMXkYbbSCSvKtcRp+FP60seSkgJLUiZghOtMX8M5+qIL7V6HEqAUpwteYQlABkHmUVTqegqzE4hZcQ1mCRlKiRAJAIETUlJBIPlXTYG1qv/lqBzt8wHITFjv9K87UpMTjQswEqONUPMSQA2LBX4lKVoE+kiTVWI4k6WXCAkJEoBHxEjln50WgglQWgyCAiYOaBIy9ANyd+tVltOYnyRJMm6bkaE0GJgwsxmdCjUJQnjLpCQhCSVJKh6Cwk7E/SieHY17zXZKcqSEgRoYBP3+lQdbTb+SJFxpvr9aGxeLDeYwEqMTufU0buqrZntPgfM4Vf+pfilqVhyt9QHM4BIupOYja8RYdppfwTE5w4gJslQAECZiJAFkgaQNKDfTicTlUAPKGhWTzRuALx3kTUOG4oEvZ0phCiJQnKQZ63NyOtTGx7qq5YVCn07uu5qMZj3HQkJSlACUyoSAAlQtf+mfnTPC8XK2CExbIekZibEf7TS/CuNloSQQW0qKVQSBGqhfejvD+BS40tA5FEhYEATaxUALanTStw5CTtMVnxhRa+f6RS1xB1xS1FzKltZASIvl1zSLz0qlzxK4UyEpKvLC4/uMJHvVjuFhZUWU5tzI9OlLONNeXh3FJaSkITmN9QjmAttNV0vxIbPzB/DjRRiAszClFShOmsZR6kfKtS/iSpSlJGUHbX3r5mz4yKnGwhoJJUlMlU6kDSBW/adWP/H9RSBjfzxLvXxr9ePtLQIKjAmJmimMTlKgs8ikwr0J19QYNB+cQD/L9OYVTinV5FSi0XOYUxVYG/iC+dCtfI+k0aMz+Hcw6ruN3AOiwk/Cex09xWf4MwhS+XOFKmGlkBKQNYO0xuTQC/HrbWISoIkISAshQvI2A1EReaK8L8SaxLyYBUCFSkkJ0BMk9BrR5gGyKy/S4rA5XGyn7TU8QxA8xC3G3WogSkggjodoqviyQV521pyLGYXAHfWpjHYduyErPUJJKT2hWvypJ4n4SMQ0Th5StNy0okEjfLsddDpe+1VZgdlgdSXGAW2ky5t0qEpcChMSkzcbVLm/NSLgmEdwxlZlKgExqJOt9BFgK0YAio8eXeI/Nh2ESgz+aqVA/nNE5BQ6xIO1OBk5FSBB/NNSClG81DJUvKPWtIuarESjimBRiH2vKwQQG0LU4FZEZgYA+GZINX4zwu2UZciWl2NpVHY/Y1DgzBbxK1N+eEeWkJLx1Vm5o2MQK5GNxSluBQbSnKSgnXNtmObm72FQ5Xo8Tp6dCwIPUk9wgyU/wKFiBcLAkEaiSK+bIxDmExFpSmdDoQetfVuHrJZ/7tSiEmxbzJPQ//wAzcenytWN8f8JbW2HcODlbJEGZyE6mb2PXrTFfeOYllKNRjxniDRb8zMMsSbi1r0jV45wwVl5o/MII+lY/g7Gdaluc6UQADcdTY2+dq1v8Pggyl4MJIUrLGVOvSZj70LPsNHmEuDeLBqbLg7yC0p5AK0qhKMuis1zptTNrGAICC0hTpmEBIgDqrpWS8F8SWz52HbTCFlK2xM5CqQsJubEgEdyqtrh+FFCDJNxK1D4lf0pOwoxzyIxVCJz88fWAYVnIs+WkLd3UPhROw61juKAh1YOoUQfUG9bbD8UKWnMqAhIgI9T16nevm/GsYWnVhSoUXCkTFtyo9bwPekZU3AATpaTP6JZ3/L6ma1sny0k35U/QACkXFfEnlveS20XV3snqBMfudqQYzxA8OUEqTfUkfK+sfer+CcVbLqS6SFQRmm5k3Ct4P+b02yFnHYB8hJ4swrA8W4hnBWykoJvBSAPrpRvFOLFSg22At02CE/UqOgoXjWNdWkJYbVBsCAY+em30pl4O4QphK1OJ51Ecx1KYHXQTPyoLZxzGOi4vcvf9oTw3AvIErUFLOupAmLD0jWi1IXFyn5H96KUoC8wKUY7HAuBE8s3/AKoEx6bVu7ZSjzPYsDZyWPQFk/lLVuOqH8tEj89kg/2yb+tJW+HOPPQ62sNpuZkZjsAdCOuunelnivxUt11Lba1AJAkAkJn8sCLes+1DeHeMYjDPeY6c7RBBSrMRzbgG0jaKNsIuybPiNw64ouxFAB7+fuZ9CQ2UonLypgWkxOg6CquFcKabQtSolaitQMak2FjeKnhnyWMoNs5V/dA3661g/EHFXErUhxRQ2qQqDt0SO/6Gkc5TsH5mHkUYiW+wqbny04laGs6UIhRQZgkiBy7qiesXO4ih+IeJsVw3Mlxlp1lQhl4OoQSYtnQVTBiew6zWL4F40LLrJUy2tLYCbx50GZUhSkgJPMeUQLm5uaB8W8fTxF5tDLQYQgruSLhREKIAsYTpfU1SmIKfoPMhZy5+vxNvhvHLGIu68028Tf8AKRpE6T3kUT4iwLjuHeRnHMgj4f8AmsbhfAzSMiy95irLCSglCgLwoj4UmNTWu4njFustKRDc87gzTIBACE9ydeyVV5sinlJhxlTTCfOsJwHy3Cp1fK0M5CNTkvAJ00r6hwrFec0h1CwpChI5Y9jexBsRWJacU665yTmBSQqIiLjUbTuKceGP+xbebxByN50rbm9lyCkDWxRPvWLkLfi7h5MIUWvU1DiCqwtSfxSHE4chJzZ1JQUxE5jEC9e4bxZhlKP83Lp8QIppiEpcQlaYIBSsd8txRMxAiFW2ijD8H4Y2VIKm3FoBKypRJjckTAFK0DDs4rDvYA+ZmdShSBJAK7QAY1GYVdxri7DRIbw7fmOAhUEJMKF9QbWuN+9XeHgl7L5TaUNAgrUnqLwnedfSaTi3FwVBNy7IqDH7iBU3eFJQpSmkZVj42VdBu2f0r13GLdWFJT5jdgUQMyNj3630oN3xG1OZ9QSM3KuUoKTsAomD6UXi0wlOKZUD+bLoodSO+4rq8Hhhz1OT1yp4i3E4MyQojKg8smAI60PiOMMIgFyZ3yqiekxB9aSf6sceLbTZakKfUTOyco5u0zET67V84S9iEAOlalD+slQ9Imw9IqFcOxiSftKmyHIoAHXmfaWH0rGZCgodRVmSsP4K4oovNgIUlLyVSDpKBMpI19YBubbneAUZivzlKmxvp2qvy09TV6xVeUdK0QZjOG+I1KIKSPTpoI7Tb503XlcMklRzZglQBII6K9rae9YXCs/wziVLzBpc5SdPcC9p1/waLC8RAUvoAkx3k/sKrTFhzYgB46PmBmzajTaghvuPEf4nGBoqzOxmISFlOaFK+EQkbRYnpevcM4tSQlcKmyjEzPX1pS3xBtyUkJWAoGN51BkX1FB4nxGUnIkygKmRY21B2IqVtBlX8BBH6Ska7DlHvBB+kY/9HYwedQSpYJkAnpJEWnp9KG/+RQkHKwG4JuvmzdAg6ifxe9U8c4ip9oOoiRsBGotN7yPuKTN8eYTBytBcQU/w4zz0z+t6jbAyn3izLEzrXtPE17HiZDJTiPLRnSkAt5hJSo3IGpIJJkA6HrThvxr5upUi0w3lIAJOXUXkAHXevj2JWpeISSeZKBI6G5gd4INPOBYrKognUW7QZgdu21dDSYE203mQanUMG3L4+8+mM4sOlI87OgKkpIhQjXl39prEeNuErdx6Tl5FZl+4BsD1OUVBvHLCwW9b+8behonG8XcHlLypAdkEakZUqIIPQ9D1FBqdO2I2osc/aOwaoZlpzRFcVweYNg2Xj5gODQMqSBKiM0bCfvp3pPxLhTywl0seUsrAgFV73MHpbtrTB7jbySLPgFU50DOFj8sQY00tROCW64h1tXJ8UBZnywu1j1En09qhUMDYHctfYRRMsY4jjfJbwySytkkHMpKyfiCrWKQAZP6ihsR4ydQS0wnzCj4lkFURbbbvQWEbxLR8s4gJAskT16yLe1R8IY8YXzHXQpWdZByAHQmT0iZtTXVk/EOfER7XFJ158y7EeOnVwlxuEfiKZ+ZEaCrGcR5rhSOaULWI0GySqNsoPzps4/gHcr6igFYOUODKVRY2tMdaX4VPkMHykQpxxRAVopAUfLTO0pAPv3pSqHNgEGWJnbDjOOwV+wMKweBCG5YS227ElRSkqV1lajMk9ZqTwxwZRmDLxcJCxoMkdtbTcUo4A0vEOlpedLUSooIBQBaIII+IRHSvPFLb+EWFlxxxlRlJKSkBVxk+NSQct7RPStCMX2ki4jeoSwCBNJwHiiVq8oLkpEXtJEklI6Xj0AqnjnDGl4tCnQMiWQok/wByoiBc662ism3igsBfMCFEhSTzAKkpPtce1MGPFCi9zwpwNZOZJAKQSQojrJM+lOz6M4ycimJ0+sGWsbjn99x1iuGcOfbITlQVSEFIynMnW2lpH0rKeEsI0lTgeJSZO2oH6Eg/KtCnxCyoIR/JcSCClOWFXgKkA8vXSkvix05A+0QkoUWyBYwSpQMR1zesik41cgpzzKMjIrBuJo2OJNoWgKSlSAIRlHMjU8yjMEg9qH4kAGQ4j8TiggHSCorE32USP9tYXEeJ33AAY7lIgmmfDHHlNEuLJSIhOydzB1m/peqMGjZm2yXUapNtjuNMNiS28AsxmgSB1MX+dNHXmC8DiU50pSEoSeaJN1RN9h1tWQ4txJaylOmUiDuojQn9q2+MWoH+UEqNr8uZIAjkkRYib9KVmw+lV98xmLJ6l10KksU1gyVMDDBEggKyhMEixBmaF8McacYw5aXmUpDpQhIEmIBi9gBcybAe1XjFYloy64FIiCVAZjOgy5QB61I4xptbZJAkqn3m0d5JmgwBmYqBfFw8uxSGPH+5lvEDy23CpMraXBSUqI20kESKf8L44GsGkhC1KCCtYTltmUoDMtRtprCjA0oZPDEustpB+EAH20j2+s0Zw5TTdkyVJQlCkrhQOWIItYfFbb6lqZzjvaOYnLg9QAMeLmJx2JcxSluum6bBIBISDolI2E+5NzX0X/RXHuNtPM4hUMEAtpUDIKpzx0SeU+p9aTYjxG22vKltsFarpDSlEibZSNVHv+lOeB8Wt/MISRCbJA3MSBpcxtrWfxDXuZeIX8Kp9qnmMvHPAgphrOoeV5qjIg2IASqYtYq+dZP+CwaGQnI4SVFSVbRpdUwOsXPY1reI8UZ8osuqJDhhITcyUmYIsm19ayWA8MB8K/lpJBIKlOOJBI0PlpBCrEHUdKF8iv7r4MLHhbH7SJZw9xpTqVM50oaSVE3kSQSZneDbfTenGI8UvFUMoCutiqPU6Cs9iPDzjK3WwrOpSULGUQIkgiVGBEa961GHS6yyAyBYAEm9+5NB6gUe0zzYd7cjqE4PxAFBJdITIMFOkiDBnTf5UwL4/Mn/ANh+9Z/iqHyEIWwghaeZSZBBk3AmwAv70mafSEpDqucJAOuwg/UGrNIRkvcZFq09OtsBx+Nw6uRYKgg6AdtCe36UsxuFW2kOsoJaWnQrCimD+XUQQOulAYQyo3JMmTt60XjMcUABSwQNE3/T13r2IemPbGazM2ocs1d/H+YJhOI5FSFEXSd76SD6QaJwr8zO8/Uf80O7gPNZViG7hJ509BYBQ63MH59a5oZWwqbnSqlz/wB5MdMfjxf2mgbcWGcggykpvNjcpII0P7Cs1icRlVMX69e9OcBjAYCpiItqOih3BpW2Eg+WtGYJdsvNHLaQRFwRf30rdQitR+kHAWFj6zsFh+VLijzOKVHUWGX7G+l6N8woIXpfT7+1djMR5jqL5EJQBYwTImJ9TrreqcQseWgpkpQSL9CYg0AJBVRG7VKsW8dR5h8QSY/EfhPWdvWo8TxRS0yo6IzhQgz0t0gVPAM2kyUiDI2G0nbT6UJx1wqEExEnsrqReyv2qzULvUgfEj07BGF/MFT4jEAFJgGxDik27xrV+Hx6VvLWVWSiISqyguO89/Qis4hlKVSpJNxYbTvf6CmfDHClDi0tFQm5UqBBsLC5+dQY9Oq8k1LcmoY0KuiI84woIZXJzJy8pOoO0H5ULwPiqvLGRCVE/ECNJMk3tr96z/GuLOOgIMROwO2g9KISpbCgW1RmSJBuNNwazWU4CnuM0ROMsw6P9JrXeJMvFCHmCl1CSEKMZUk/DJGqSaYKUhSEspIUlCQmR/SI1rN8BWvEvJKsobRygJTlCzvy9P3o7h6QhakqcywtSAkJzKMfDy25Y1MiKDQlVyFPMzXK7oH8cwvE4ItLSoHlVZXWwt61PxDx4JwTrJuC2UxoSTZBPWDBk9K8xzi0i90gTl3B3m52jc71lvEGPJIC7JISrLNpEwPS4+VZnxbtSSBQHcPFlrTAMbJ6h/AMKLAwRl0OhvIJ9JFVcS4eAsuIlTiYzCbkAXj5aVn3OLKnlVHTrVjHFVBWYmT1PX9NaqbKGXaRI1xlX3gzS4fFpdaKgEAkgBwNKSR6kkiJF8vSdqTvYhS2iDGYkZ0E35REx1sL9u9HPcSS62FJVAAgtQI8wmPM6jlWZ9JvSbC4HMpUJlZBIAEme3eaSqhFNHuUM7ZHG4dQ3w/4bfxMqZSMqbZiY+m9MuIcGxmHaK3EZmx8UEEgREmOgANaHgmFfYwzfkqbEgElYgAqibdPeaM4i9iHZbQGnGlN8ygbgkQTYxHaoP4l1yWvUu/hVbH7u4m4H4faEPuJ8zlBSIskpNyfzEQD0idaaucCcdQ88SjDhAUpBBCUmNSpW09Tv6mn3BZW0wZt5SPc5RN/81pP/qdg1qwRW2pQDcfy0kwsqUlIJG8DaqmQvkLsbBky5AmPYooz54OJPFX/AJHTqQcxy+tOPD/FGHCtrF5mlOElCyDlSAnSDeJGx1NP/DAbwyUMBtanV/GQEnm1MnXKOtU+KVNYplxsNKS83myBQSCcusa2MEX1qdM+1/aK+se2nvHZPPxK2+FFoBbDqVmyQFGBzHVKkqMkCY3tQOLwbjTJ5gVrWnMoCwvcJnQAVdwDEuKZbStVyhJSbzpadrCLAD3pvxfDLGHCym0pUPY/rXTx4CmPc3JN/pOdkzjI5VeKr7mZpfiAMhKHELzJMgoVAV6/tR/B8rzwxGUiEx/7kyI9I+dRxuCacnO0bAGEEq2nYAjT3phwjgjym0mMqLKygBM9jJJV0/DMUhNNtY7qHHzxzKG1PtUjnn78dz17DlxxKikpyTllXXeAPvVeHL7TqlJBKCJMG3L+YHQa/OmGJcywVaVQxiS4MyZAI5SLWOk9iCDHeqv/AF2MqBVGuZM//lcu4k8izXHMuTilrQHDlStNoMwU7gbk9qpcW44BkIBScxBkgxsQO9B4ZsMkpezoJjmLiohWmZJEBJ7W9KlxLAYhs58OvU2HWehI03vUWr0q4ypQVco0mtbKCHPX2niHX24Wo5UjOogKcXtcc4ECBMRVnh3iP8kZ0oUoqUSpUyrmNzb29q03hXB+bhVOYh1t8rls+UQQhKoCk7Xg3Ji31QYjwS8kxh3ShEaGTcWmfQD5V7Biq7m5m9TqZp3hiSjzFKyqWASoiIIkT7n/AC1JeG8H81wpU6ne83VGyZ3Pen3iTjKH2mSlQBS2Egf2kzPzpPhgynKVEWvcKMegmDUyMwBuVZ8S7+AP1h2Mx6W2vIZUQ0UEqSdZ0Mp6mDSdyfLR0lX0NcH8zijGth7fCDVxR/27Z/qV9f8A8p+PggH5/wAQM3KEjwK/SecLBWsJBg6ybxlvpvoKofSsKUTuErHuYForzCvFtRKdSCB71c+6XAXMsIT5YIm9tI9wf/aqHL39JHj9Pbzd3IIwSgCpSSeUmSQICYB27ir8GoKYIAuFqB/3JSU/UEVHG8USEkIQQlQJMnckE+gtR3h3C5m1K3SkFX++4J9x9TWKWJBbjmbkCrYQ3YjLguPQGkoUYM5lE7hIsAd7xb1qXEGELF7BYzSPwpAG2kzHzpCpYun8pt6HT9vaot8QUm0mIjrA7A2i+lNy6dg25GonuZh1KbQmRbA6nuDMIJKUkFJM821oUM3XSxojEpDTUltABTymVKn2JEe9V4cqWFADzQpUkBKgbbG0AT33qnjzinC20BKhqlJzR2nc6+kV4M6j3gUIDJic+wmz4gnD8PCwtYsoyNu3+elNuIIbcYzJWLQI0IO4NqXhfKR0t8tKocVIJJOthNqnYK5BlCZDjQqJoeAgNqSUqhCG/iiy1nUpJFwINe8I4gHX1OxEqKh3A37TBMdazePCiE8xsAANojbpv8qN8OGCtM7CO3X0vFN0mIDLuMVrM+/HtHiOeMcRWqbSDYQYN/vWV44pXnKF7BOu3KPpc/OmfEXiLCZnT9KFfQtDyS61IQhCFhP4gEhIM9cuWqtW3JqS6ROr/f1l3hzgqnAHFkJQLhR0HWbdtP3pi9wVkkEONrkKlUgSdo2F4+tOeD4ltvDJSWvMkWT3UdbX0jSp4tWGhCHGEhCVSkpJSTIurKUgx110riNlZm8zuLiRUriZDhS8iVKULGU6XuCPlNNuHQh5twD8RChE7TJ7XPypXheIhwlPlpCMxUBfUxJJPWJpp5x/h3bwTdIH9MEQB3Aq5x/x0fJEi06g5DR6BPP06jtnGOPJCUKShaSClRBKYOtgZ+Emqg44ysKdeYyKOULakJBWeYr9LEjtWaVxE+WlbZUhxMSRpG0emlLeJ8VefUnOoryzFv0H3qQac3t8Sg6kVfnx/wBT7vwQNqENKBQISki4ISAJB33+dDeJMv8ADqQoWPKPXb7ViPDni5xljJkCF5rKvAEC4BETM13GfEbimyPMKrg5ZBKoMmPxbG9G+SvZXMxMNj1ARV/rD+JeKkstpKioJywnKkKJVf4p2sbTf2qHD/E4ebXEkKTBUUBBzbhMbab9aWHiSGg5mkoKrcqVlJ1ulQggzPagn8UjEpU20CBlygkJGupypsBEn/8AanXBztrm+45s4C7r4qW8WxwYUlLRgCE6aDTT2p43xvzmPKUqVZekaC09Yn6Vncf4dzLSlC7QnMLGAIFu5CR7054FhEtOKSpIlSVZFnfS0HcbfOuw+o2UCDVV1OUmmL7iCL7PP+Iw8PYowMuVSkjQqIICYCiBFzEaxtetC5xmWhkBGY3ChGhsqOlp+VYdjA//AGAQCQlIdVAMEAhJGm10a9qPOMcKypSs2YDtEbHaa55YNqFY9GpWV26cqByLg/jB9YbygQdTvbT5X+lC8P42FcqHYghKQlCyTltOgBUowRBgCO8diMRndVm+EApg76T7bUp4ZjVsOOYdoZwtQKCNQSLjvI+o7muuM9ZCD1OW2H/iDeTf95pcS+pXMpIkHKRsRGkTAm5ge3eeEwvnJSkOqDSb5AYzJMQlR2jSlfEsd5TYEgkzN5PxE/aPpVnhbGcu55iIHQxW5yuwj6RenB9QH6zZcC4YhhR8pRCXIKkG45SIjt8Q9+1Ol4q9Z/BOw4JVPfbt6UwcdM6/LT63PrXPQ8TrOADxPlqeGJDZEogkmQFT2i/tSvE4cpMEEGtE1xAI0bC3FEBsdFHoNDrv2oZXDDnJdIzIMuA7CYM9u+9c9Ga+Z29VjxKPb4inhWCK3JEwASenKJ+cUxDWbCZxoHT+oj/OtE4vHNNNJLJGeZSLmNbkaane/wAq7g6f/r1Ai+YEe6kyfcW9qcCSQfqJysrhUIrsGZ5wR9xUFvEAgGAqJHWNPkaIxSItuLjuNxQDldEzlrPH+YhPUx86+jeFm0owD5WOZSCAeoSiU/JRNfOsG1ncSL9bVtGH8uGKb3C/uanznr8xGK239DM9xBOUyNBr/arT5H70E4q9NlqCkSROQkKHVC7H5H70sdw0Eom4ugnRQOl9j07yKvyD4k6H5hPD0goIsBmCio7AAyJ6aGKhwbHIS8pwzaSn5QB8ppc6+QCNDvVmDbgVLmpk2/rKMLFH3jvxNo802rmQgOJAAAGhLipVcaQI9JNZnG4UJdW0i5zkAdjYX7V7hCoTlJTO4JF/UUc2lgNeYSPPCgIm8aRk3kSZ7VGqNj834EtfUJl4K0fMXY2EKKFEW9Yv3F/pVeL4kEFBbmQCDJJBB7qAP3oz+IaLhUEKcWfw6AetFt8F817nCeQAEfhzK+FIG8XJ9BNqtVioAJ9xkhxhizAcCD8L4I5if5iyW2/mpX9vQd6ecQwaA1lSDyxrc+pO9wKfMNJQABoK9xbSFpOgVH+A9asyaVXFk8yfFrnx2FAAIo/MwzPFi0sLQApChOXS56HaocT40XmyhIUkSZJcUuewnQVZjuCryOZBKgSpI3KDBUn1BmB2NZ5h4yANN47965XoUbqX/wARYIuH8MSE62kVosJw9Za8wEbwOwpFxvHIcfCmkeWnKkZbagXJjfb2pg3iVJbKFBwD8lwm/U/FB+R71Vu4HzJwOT8QPEsIMcpncg9JFhvpU+DcNcWtS8vbWwmwHfSPavG1qBPKrlmeWI3EiLC9NvDvFA0yoEcy1TJFxl/KdtJ96EEkAAXzDoKSTxxx+cGWY+IeoO9dw7hp5im4n3g034fwZeKZ8xKkpEmAQbweu036iqOFpU244hYKSAJSY6mJPtNuopynHkfahsjuIYZEXcwoeJQG8qnCtcJUAQSJBIsY3UTb1ofgDredSW23FDdwKSJ7QdBNhc9avddC85WTlbnltBMb9RO28XmjvDC2kMqUoQpR5Y2iRe437HSO9Z6QSmqye5rZt3t8Dr/EOUUokyJNzHWrcE4l6wWhCQJzKBIPYAC5gzFtaxXEuJrlaQfxH5GaJ8N8UHKgmDJ13+GPt9KsGReEkbK3L/Wb5/GJ/hw0ESQZLlpMSSSBfMZA6AC1JsdYgCxKT8x2qxhOe07E+w/z60NjMUkupAN9PSuPr0RMiqnd2fvOpoCzozP1VfpPMDwUqaznmUpV9oA7bXmpeGeEheID35Csx2gpT+9aPFqjCANiR17Sbk9IvQXhFULUnqkfTX70WnYsrMfDEfpMzEbgtf8AyJ3EvCDb2ZQOVxV+gM6kdzSLgnBncM65nMwMoAFrmSTFpsN6+hPtqIsQkbk3Py0pNxBpspy5iq+pI94AsPbvTMh3CZjTabiTEOq1zq6kD/JFMuG4zzWwuInb0sfrNIuJrbbnM8hSeyjmHa2tD8G460GyFLywpUX2JkH60CCu4x2izhPEw20oGVOEjIBImCDJM7RuPSorWtclSiZMqO2v1g6DbuaEZbjWBOom59f20ogviNbDXp/n+Com4PE7eNFHLQLGCAVdrD9+9XYPiCkt5fLURBum+u9CYzMsKI0TBM+tMcEQEgA6VVhQMOZx/wDyDe4fEh/EMOIhS4UNJBBHod/Sk74ANlA9x+xp8+2lXxJnuIH31pdicMNEj0EVU056G5fwXCkNZhq4YnsD/wAfWtPi2ZaAykZQBmixn/NaStYXIAg2Um0g3t0I70C9x/EpEFWZI/MkfcRPvUjMMlV4MblwustVLTlxI+FQ6g/uK8fYQAEuz5ZnynRt/Sr31Gx9aoxPiBLiYW1ChbMkzPsY+9ecOxpcV5QJyrNxFp+eproHKoWTlGHMrVgW/wA+f009z0qvDCSB0o7iGHLSikgGLjRIjqQNTVOFaSpUqISToJ+3X2/epmKuRUeLAsxi2yIkXG/70Ni0BRGpI6EXH+d6tcwLifgVm7dR9PmD7UIvL+Jlwn+lcj6iR701R4qJU2buEcNP80BCSojmyI/puMx3vHYUy4Xi1hSs0ScxUR+cjbsBae1DcG4wGUuBDJCnOQSYjqqydgetRfxKWwYOlvfei06+9nboUAf7xmocemqL5sn/ABNLh3y4E5fxKAvaJMCTtVfEUvIMFIndOZBJkdASQYuLXvvQfhbFZ2ua+VRBncG/2Me1MF4ItqtzI6bga26wb2uNulXBtwBB4kBXaaI5me46+gNMuJMOlty4NwpKgkD5KVNI+EcOzgmYI0O3oe1GeJXYxC5iBMQI1zH5yftRHDGP+3lFlx9a4+qyFevmdvRYg/4h4lXh3gn8Q84FEoQhNymConZKZ739BWm4pw/y0AhXmBRT5wty2iY2FhrND+E+BupQtxS8udsKSCOYkzmHYjKR3v2lZiX1HOU5oII6SCIM9bVGWbLm2g2BUpxsuHGzdHn/AFI8QxiFOrLa/ibKNDclUAntBmhuNBLZQlAjlG5Osgfao4RkQqUyY5TBlMEGR0sCPeg8VLmIyXOZYA3gKNva9XLi9M3fAkb6k5gQQL/tNnifFC20NstNJCwhI0MJt+FO1DcMcDjruclRDeYEkybkbfP3pXxvEZMQlII5QASBEzQS+JgvhTZIGTIQJGuvqNKVixgM2w0T0fvGZMppfUFgDkRtx3ChtaspIzpbEG4JUSDHpyn/AHV4zhVhjMFWQSIjUIME/OflUeJcUdUjKSFQQoSBYpMihGvETgSkQmIUCI6mb3qmtQhqxEhtK/NEfviK3Tz+9UYNKlPJCYmRrp79qKYbzE/0gn6WqrhGCW4tOUxmNtf80ojy/wCkSeMdn6x3xHiL2GWPLRlQUkGSSFTBOUm4At9apwXFklzO4YGkXOtM3PDCFHmdcPYmfvSpjhgQ/lPMAbToRW5tPbbiInFqvbsBn0bifizDuYZtrDtrXlgnKmAcojUwAJM67Uh8P4pSsSnzWwhuDlSopP8Acc35hY3tA7TRTK4aA7faazHH+JqbCHEEhQVI+tAcexNo/OMx5N77iOp9P4nwxCh/LVlnaORXqnQj0g96yOM4YAojN5Rn8UltXov8PoqguHf6lJKFB1Km3I/AkLbX6oUQUH+0xS3G/wCoOIXZtDaU9VIk/KSKR7pXuWNMZ4aO7YJ/pmDP0rGcUY8t1SIiDp07UWjxLikghLkAzaLCd0g2FA5VK5lZlFVyes1oB8wWZfEPcxDYEIUVfQe8XNDreP8AlgPQbUKrCQrpOlTRhwDf2pOwDzLDrGbxLc+aEg8sgqN+Y9v6RTOIUfU0tNMWnM19yKbiPuqSahi6We7/AKS5Kqr8mVJPRQPyNSXVK8RlcQkxJULbx+lqfk6kuPsVHTrCsxKtTr3PX1pdikIzEqDkdgCD8januJxjYSSTprSDFOuKvnShPYSfma5yip0S26Auow40zqM6ERVQZSRlETNspKiPQCw9aE4khzUlSkyObaTMD5A/I0VwjErSReB0AuadRAu4m7NVL3MMEQkA2FwYo3B4eUw4MyTYAiAOmu+0/vXYRS1vfy/iE3taRHzg0Y/gijMDp/nypmIHsxWeuhKXuGELlpa2kjKAkaGBdXv1qtPCnlmVKP8AdCBA7mL0FjH3EQQsxeZ2PUTsRVDjmIeASVKKdhp9KrVgJPtMaYdgFzkWVhJNySUgxt+Yx0o7h/h3OAoI8ywJW4sJQJvYD7GocPwPltAcxibISVEnfSw96Y4XFeRgVFQAWQooBykjMYRuexrNY5x4gEHJP6XN0wVslseB/WLeE8XJxBaPlhBBCAgQJHfUkgG/anbnEQlMHWYTlkqPYpjTuawCMQULS4LlJBEnptbatH4dxSylb4hblxACQEbk/wDJmsGoGDFVflD9A58t333C3/Dnm+Yp1ErdAyLJKSggEfCkwfwyDMydKu/gWcK2A6sKVsNj3iZj1pZxbxE8OUWO6ifsP1oHhif4grWpRWoVyshfJbP1OviVcZCp3CcTxR8rSrMsIUeXNeNxlE2BITA6gUdw51DwJcgqk32P+3Y9qSI4mgBTD2gkAx9D9PlVbL5QqUqDiOxBUPXrXS0qIhBA8Tlaos5IPzNNiMqATpSJtbZJcnKtCgsdFZfwkd+oqGI4qhaIlWboYH1JoNrh7jiSoQEgT1n36d6o1FMtCIwWhswfH4zzFlU3NDYT4ietDOIg0e00oIHJPQgE/OKlxqF6lORye4yQ8SkHtQeJRf1/y1RaeVeEqPWAf2q3DhxzlSgk9Mp+5iDVbMGElCUbkcEScwGpQofMW+tP/CGGslR2SPmf+Jpa5wJ4XWUNBQg80qg/0/8ANaDgyA2wkDcC/wBKHFjPqWZmbIPT2iG4l4c0Hb9/1onh2CRAUQCQmxpK8ZcQj81PDi0JRKSFD4ZGkjWDvFWkyLbUucZkG8DT51gvFP4UbjX5VtHeIpSIWlQ6AiPvtWA8RPS4k9Qo/M2rn5291Dqp0dOg2We7gTCB0uaJDYG2lCNL661KCTrFTSiSWqZPy9qYoRYeg+wpW8vYaCnKkSEn+kfS1GouA8XFyRlOmx6H9q9UbX1rq6kRonhcvE0fwuVGOn611dTMf4xByfgMMe/uSO//ABJP0pKtQ88FIMCddTAJJPc11dTssRhmmaWlxCCDzRadD/STpPahHGshJEpG6Tsf0rq6oG7lyQLHIP8ADqF8pfbMkXktub9IFdg2gBmAkgffQfOurqJjwJoA3GOOAJDayk/FlBPqTf8ASiOLvkjlI9xNe11XYP5c5+f+bEmOdgJlMGQCIkEAzYxRjeNlxAtZQNh0vtXV1Ox9wH6jjDrKHCgBKgTIBBBE7a3HeL0342+8pnIWWMlvjVAttzAV1dStV/NT7yZSRdTC8YSlMyMMg9EDOr6Ege9ImMYtKjkMTr/grq6vZue5fi46nYhKjdSpPTrTfw+8lClpCiUwCMwAJnUQCdDNdXVJlUbDLMDH1BB+IgqJBTaZFuvfWh8NhG5/MfkPpXV1MxH2iK1H4zHeC4Zhk8zuZapsgG3uO3c05/jDkKG2QE75lST/ALQCfnArq6uggFTnOTczznh4uPQm0gkzNojtfWtB/wDGZbABKXE6KH7V1dXseNaP5zcuQ2PygTnCsWndKh3Ez8qqawuInVKOsKdA+QV9q6urSoHUHcYwb4Y2buQo9TJPsVE1fiGQ2jLewkSItXtdRKeYtuog8QrIIgwcv3FXu8UCGWUJSIyZrWiwufea6uoMjEE1GooKi4N/1PzOs6yf89KRcVXKk/2x9a9rqhLEk3LQoCivrKEJqcV1dS4UgrQ1oME5yCurqasBp//Z",
+        "name": "Cricket",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who holds the record for the highest individual score in TEST cricket?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sachin Tendulkar",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Brian Lara",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Virender Sehwag",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Brian Charles Lara",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which team has won the most ICC Cricket World Cup titles?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Australia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "India",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "England",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "West Indies",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Who holds the record for the highest individual score in ODI cricket?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sachin Tendulkar",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Rohit Sharma",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Chris Gayle",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "AB de Villiers",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXzY0PzMc-imszLch4q9vTMMNTo4nC7hEi5w&usqp=CAU",
+        "name": "Current Affairs",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Which country hosted the 2020 Summer Olympics?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Japan",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "China",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Brazil",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "United States",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Who won the 2021 Nobel Peace Prize?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Greta Thunberg",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Malala Yousafzai",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "World Health Organization (WHO)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Maria Ressa and Dmitry Muratov",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which country recently signed a historic peace agreement with Israel?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "United Arab Emirates",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Saudi Arabia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Bahrain",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "United Arab Emirates and Bahrain",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6YunLoK1T-Upn9YqOZyTqM-8yc5FIiAOrw&usqp=CAU",
+        "name": "Finance",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the stock symbol for Apple Inc.?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "APPL",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "AAPL",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "APLE",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "APPLE",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What does the acronym GDP stand for?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Gross Domestic Price",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Gross Domestic Product",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Global Development Process",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Government Debt Percentage",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the role of the Federal Reserve in the United States?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Regulating the stock market",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Issuing currency",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Collecting taxes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Enforcing antitrust laws",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsVf4I9FQyfTb-woSRiIdnMkHyhIlqlC20g&usqp=CAU",
+        "name": "Astronomy",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who is considered the father of Indian astronomy?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Aryabhata",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Varahamihira",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Brahmagupta",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Bhaskara II",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which ancient Indian text contains detailed astronomical observations and calculations?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Surya Siddhanta",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Vedas",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Puranas",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Arthashastra",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is the name of the ancient Indian instrument used for astronomical calculations?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Yantra",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sarangi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tabla",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Veena",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Which organization is responsible for India's space research and satellite launches?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "ISRO",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NASA",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ESA",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Roscosmos",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "img": "https://www.careerguide.com/career/wp-content/uploads/2021/08/4.jpg",
+        "name": "Geography",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the capital city of Australia?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sydney",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Melbourne",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Canberra",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Brisbane",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which is the longest river in the world?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Amazon River",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nile River",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Yangtze River",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Mississippi River",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which mountain range is located in South America?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Rocky Mountains",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Andes Mountains",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Himalayas",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Alps",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What is the largest desert in the world?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sahara Desert",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Gobi Desert",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Atacama Desert",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Kalahari Desert",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjd_UYav-z934mFX5a4gwQCghiD7CvZTacQ&usqp=CAU",
+        "name": "Arts",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Who painted the Mona Lisa?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Pablo Picasso",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Vincent van Gogh",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Leonardo da Vinci",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Michelangelo",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which playwright wrote the famous tragedy 'Hamlet'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "William Shakespeare",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Arthur Miller",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tennessee Williams",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Anton Chekhov",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which musical instrument is known as the 'king of instruments'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Piano",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Violin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Guitar",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Trumpet",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Which dance style originated in the United States?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Ballet",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Salsa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tap Dance",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Flamenco",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+    
+    
+     
+]
